@@ -6,7 +6,7 @@
 * 	Model date: August, 2022 
 * 	Model version: 1
 * 	License: MIT
-* 	Model implementation code: 
+* 	Model implementation code: modelproject_group14.ipynb
 * 	### Intended Use 
     *  __Primary intended uses__ : This model is an example probability of default classifier, with an example use case for determining eligibility for a credit line increase. 
     * 	__Primary intended users__: Students in GWU DNSC 6301 bootcamp. 
